@@ -9,3 +9,19 @@
 {
     text-align: center;
 }   
+
+
+ul.c10{
+    list-style-image:url('logo.png');
+}
+li{
+    margin: 15px 0px 0px 0px;
+}
+
+
+
+.lists-split {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
